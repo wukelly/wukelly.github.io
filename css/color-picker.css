@@ -1,0 +1,33 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+/* slider */
+.slider {
+  -webkit-appearance: none;
+  width: 500px;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+  margin: 30px 10px;
+}
+
+/* test div */
+.test-container {
+    margin: 30px;
+    padding: 10px;
+    display:inline-block;
+    background: #999999;
+}
+
+
+/* rectangle */
+.rectangle {
+  height: 100px;
+  width: 100px;
+  margin: 0 10px;
+}
